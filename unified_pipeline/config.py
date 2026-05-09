@@ -15,9 +15,7 @@ import torch
 # ─────────────────────────────────────────────────────────────────────────────
 
 DEFAULT_AVATAR_PROMPT = (
-    "A realistic person speaking naturally with accurate lip synchronization, "
-    "expressive facial motion, stable head movement, and smooth real-time "
-    "talking animation."
+    "A long-haired young man faces the lens against a neutral backdrop, wearing a denim shirt. He speaks in a composed, even rhythm; lip shapes are clearly articulated, with occasional faint smiles and slight brow movement for nuance. Natural blinks and small head shifts keep the portrait alive while maintaining frontal alignment. The camera is locked on a mid-close shot with a subtle push-in; depth of field isolates the subject while preserving crisp eye detail. Lighting is soft and balanced, producing consistent skin tone and stable color temperature throughout."
 )
 
 
